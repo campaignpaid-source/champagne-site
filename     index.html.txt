@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Champagne | Private Companion</title>
+
+    <style>
+        body {
+            margin: 0;
+            background: #111;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        .hero {
+            padding: 80px 20px;
+        }
+
+        h1 {
+            font-size: 60px;
+            color: gold;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            font-weight: normal;
+            color: #ddd;
+        }
+
+        p {
+            max-width: 600px;
+            margin: 20px auto;
+            line-height: 1.6;
+            color: #ccc;
+        }
+
+        .button {
+            display: inline-block;
+            margin-top: 25px;
+            padding: 15px 35px;
+            background: gold;
+            color: black;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 30px;
+        }
+
+        .button:hover {
+            background: white;
+        }
+
+        footer {
+            margin-top: 80px;
+            padding: 20px;
+            color: #777;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="hero">
+    <h1>Champagne</h1>
+    <h2>Private Companion</h2>
+
+    <p>
+        Welcome. I'm Champagne, offering professional companionship in a relaxed,
+        upscale setting. I value discretion, respect, and creating enjoyable
+        experiences for my guests.
+    </p>
+
+    <a class="button" href="mailto:your@email.com">Book an Appointment</a>
+
+    <br><br>
+
+    <a href="https://MyEscort.Network" style="color:gold;">
+        View MyEscort.Network Profile
+    </a>
+</div>
+
+<footer>
+    © 2026 Champagne • All Rights Reserved
+</footer>
+
+</body>
+</html>
